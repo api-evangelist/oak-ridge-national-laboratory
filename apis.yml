@@ -1,15 +1,29 @@
-name: oak-ridge-national-laboratory
-description: Needs a description.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/apis-json.png
-url: https://example.com/apis/apis.yml
-type: Contract
-created: '2024-12-25'
-modified: '2024-12-25'
-specificationVersion: '0.18'
+aid: oak-ridge-national-laboratory
+name: Oak Ridge National Laboratory
+description: >-
+  Oak Ridge National Laboratory (ORNL) is the largest US Department of Energy
+  science and energy laboratory. ORNL provides public data and scientific
+  computing resources for research including neutron science, materials science,
+  computing, energy, and national security.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Tag
+  - National Laboratory
+  - DOE
+  - Research
+  - Science
+  - Government
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/oak-ridge-national-laboratory/refs/heads/main/apis.yml
+created: '2024-12-25'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.ornl.gov/
+  - type: Documentation
+    url: https://www.ornl.gov/research
 maintainers:
-  - FN: API Evangelist
-    email: info@apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
