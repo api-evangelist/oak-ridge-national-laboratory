@@ -8,11 +8,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - National Laboratory
   - DOE
+  - Government
+  - National Laboratory
   - Research
   - Science
-  - Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/oak-ridge-national-laboratory/refs/heads/main/apis.yml
 created: '2024-12-25'
