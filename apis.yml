@@ -41,10 +41,14 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/oak-ridge-national-laboratory/refs/heads/main/apis.yml
 created: '2024-12-25'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.ornl.gov/news-desk/
+    type: Blog
+  - url: https://www.ornl.gov/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/oak-ridge-national-laboratory-domain-security.yml
   - type: LinkedIn
